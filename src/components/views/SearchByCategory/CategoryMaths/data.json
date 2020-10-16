@@ -1,0 +1,139 @@
+[
+  {
+    "Name": "Benjamin Graham",
+    "image": "/images/business/business1.webp",
+    "Price": 6,
+    "City": "The Intelligent Investor ",
+    "Book Category":"['Benjamin Graham',]",
+    "grade": "['Grade 2',]",
+    "Ranking": 1,
+    "Rating": 5,
+    "Number of Reviews": 136
+
+  },
+  {
+    "Name": "Napoleon Hill",
+    "image": "/images/business/business2.jpg",
+    "Price": 5.5,
+    "City": "Think & Grow Rich",
+    "Book Category": "['Napoleon Hill',]",
+    "grade": "['Grade 5',]",
+    "Ranking": 2,
+    "Rating": 4.5,
+    "Number of Reviews": 812
+  },
+  {
+    "Name": "John Brooks",
+    "image": "/images/business/business3.jpg",
+    "Price": 10,
+    "City": "Business Adventures",
+    "Book Category": "['John Brooks',]",
+    "grade": "['Grade 7',]",
+    "Ranking": 3,
+    "Rating": 4.5,
+    "Number of Reviews": 567
+  },
+  {
+    "Name": "Richard Branson",
+    "image": "/images/business/business4.jpg",
+    "Price": 3.5,
+    "City": "Screw Business As Usual",
+    "Book Category": "['Richard Branson',]",
+    "grade": "['Grade 10',]",
+    "Ranking": 4,
+    "Rating": 5,
+    "Number of Reviews": 564
+  },
+  {
+    "Name": "Maya Grossman",
+    "image": "/images/business/business5.jpg",
+    "Price": 10,
+    "City": "INVALUABLE",
+    "Book Category": "['Maya Grossman',]",
+    "grade": "['Grade 4',]",
+    "Ranking": 5,
+    "Rating": 4.5,
+    "Number of Reviews": 316
+  },
+    {
+      "Name": "Lee Iacocca",
+      "image": "/images/business/business6.jpg",
+      "Price": 4.2,
+      "City": "Where have all the leaders gone?",
+      "Book Category":"['Lee Iacocca',]",
+      "grade": "['Grade 3',]",
+      "Ranking": 1,
+      "Rating": 5,
+      "Number of Reviews": 136
+
+    },
+  {
+    "Name": "John Walker",
+    "image": "/images/business/business7.jpg",
+    "Price": 12,
+    "City": "Inspirational Quotes for Business",
+    "Book Category": "['John Walker',]",
+    "grade": "['Diploma',]",
+    "Ranking": 3,
+    "Rating": 4.5,
+    "Number of Reviews": 567
+  },
+  {
+    "Name": "Magazine",
+    "image": "/images/business/business8.jpeg",
+    "Price": 6,
+    "City": "Entrepreneur",
+    "Book Category": "['Magazine',]",
+    "grade": "['Grade 10',]",
+    "Ranking": 4,
+    "Rating": 5,
+    "Number of Reviews": 564
+  },
+  {
+    "Name": "Magazine",
+    "image": "/images/business/business9.jpg",
+    "Price": 7,
+    "City": "Profit to People",
+    "Book Category": "['Magazine',]",
+    "grade": "['Grade 3',]",
+    "Ranking": 5,
+    "Rating": 4.5,
+    "Number of Reviews": 316
+  },
+  {
+    "Name": "Magazine",
+    "image": "/images/business/business10.jpg",
+    "Price": 7.5,
+    "City": "CEO",
+    "Book Category":"['Magazine',]",
+    "grade": "['Grade 1',]",
+    "Ranking": 1,
+    "Rating": 5,
+    "Number of Reviews": 136
+
+  },
+  {
+    "Name": "unknown",
+    "image": "/images/business/business11.jpg",
+    "Price": 7,
+    "City": "Great Indian Business Stories",
+    "Book Category": "['unknown',]",
+    "grade": "['Grade 3',]",
+    "Ranking": 5,
+    "Rating": 4.5,
+    "Number of Reviews": 316
+  },
+  {
+    "Name": "David Tyreman",
+    "image": "/images/business/business12.jpg",
+    "Price": 7.5,
+    "City": "World Famous",
+    "Book Category":"['David Tyreman',]",
+    "grade": "['Grade 1',]",
+    "Ranking": 1,
+    "Rating": 5,
+    "Number of Reviews": 136
+
+  }
+  ]
+

@@ -1,0 +1,46 @@
+.niroin{
+    padding: 20px 20px;
+    line-height: 1.5;
+    background-color: #bbd0e3;
+    box-shadow: #4261c7 ;
+    background-clip: padding-box;
+    border-radius: 20px ;
+    transition: background-color .15s;
+    alignment: center;
+
+
+}
+
+from{
+    transform: rotate(0deg);
+}
+to{
+    transform: rotate(360deg);
+}
+
+.creaditn{
+    background-color: #5e6993;
+
+}
+
+/*
+.formnadu{
+    margin: auto;
+    alignment: center;
+
+}
+*/
+
+.submitcc{
+    background-color: #1a4c87;
+    border-radius: 12px;
+}
+
+.formnadu{
+
+    margin: 0 auto;
+    width: 250px;
+    border: solid;
+    border-color: cornflowerblue;
+}
+

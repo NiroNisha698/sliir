@@ -1,0 +1,140 @@
+[
+  {
+    "Name": "J k Rowling",
+    "image": "/images/novel/novel1.jpg",
+    "Price": 6,
+    "City": "Harry Potter",
+    "Book Category":"['J k Rowling',]",
+    "grade": "['Grade 01',]",
+    "Ranking": 1,
+    "Rating": 5,
+    "Number of Reviews": 136
+
+  },
+  {
+    "Name": "J k Rowling",
+    "image": "/images/novel/novel2.jpg",
+    "Price": 5.5,
+    "City": "Harry Potter ",
+    "Book Category": "['J k Rowling',]",
+    "grade": "['Grade 02',]",
+    "Ranking": 2,
+    "Rating": 4.5,
+    "Number of Reviews": 812
+  },
+  {
+    "Name": "Ma Jian",
+    "image": "/images/novel/novel3.webp",
+    "Price": 10,
+    "City": "The Dark Road",
+    "Book Category": "['Ma Jian',]",
+    "grade": "['Grade 05',]",
+    "Ranking": 3,
+    "Rating": 4.5,
+    "Number of Reviews": 567
+  },
+  {
+    "Name": "Yiftach Recicher Atir",
+    "image": "/images/novel/novel4.jpg",
+    "Price": 3.5,
+    "City": "The English Teacher",
+    "Book Category": "['Yiftach Recicher Atir',]",
+    "grade": "['Grade 02',]",
+    "Ranking": 4,
+    "Rating": 5,
+    "Number of Reviews": 564
+  },
+  {
+    "Name": "Geoger R Martin",
+    "image": "/images/novel/novel5.jpg",
+    "Price": 10,
+    "City": "Game of Thrones",
+    "Book Category": "['Geoger R Martin',]",
+    "grade": "['Grade 06',]",
+    "Ranking": 5,
+    "Rating": 4.5,
+    "Number of Reviews": 316
+  },
+    {
+      "Name": "Judith Mc Naught",
+      "image": "/images/novel/novel6.jpg",
+      "Price": 4.2,
+      "City": "Something wonderful",
+      "Book Category":"['Judith Mc Naught',]",
+      "grade": "['Grade 07',]",
+      "Ranking": 1,
+      "Rating": 5,
+      "Number of Reviews": 136
+
+    },
+  {
+    "Name": "Harper Lee",
+    "image": "/images/novel/novel7.jpg",
+    "Price": 12,
+    "City": "To Kill A Mocking Bird",
+    "Book Category": "['Harper Lee',]",
+    "grade": "['Grade 10',]",
+    "Ranking": 3,
+    "Rating": 4.5,
+    "Number of Reviews": 567
+  },
+  {
+    "Name": "John Grisham",
+    "image": "/images/novel/novel8.jpg",
+    "Price": 6,
+    "City": "A Time To Kill",
+    "Book Category": "['John Grisham',]",
+    "grade": "['Grade 10',]",
+    "Ranking": 4,
+    "Rating": 5,
+    "Number of Reviews": 564
+  },
+  {
+    "Name": "Leila Meacham",
+    "image": "/images/novel/novel9.jpg",
+    "Price": 7,
+    "City": "Dragon Fly",
+    "Book Category": "['Leila Meacham',]",
+    "grade": "['Grade 08',]",
+    "Ranking": 5,
+    "Rating": 4.5,
+    "Number of Reviews": 316
+  },
+  {
+    "Name": "Jhon Ellsworth",
+    "image": "/images/novel/novel10.jpg",
+    "Price": 7.5,
+    "City": "The Point Of Light",
+    "Book Category":"['Jhon Ellsworth',]",
+    "grade": "['Grade 03',]",
+    "Ranking": 1,
+    "Rating": 5,
+    "Number of Reviews": 136
+
+  },
+  {
+    "Name": "Joan Hiatt Harlow",
+    "image": "/images/novel/novel11.jpg",
+    "Price": 7.5,
+    "City": "Shadows on the Sea",
+    "Book Category":"['Joan Hiatt Harlow',]",
+    "grade": "['Grade 04',]",
+    "Ranking": 1,
+    "Rating": 5,
+    "Number of Reviews": 136
+
+  },
+  {
+    "Name": "John Harris",
+    "image": "/images/novel/novel12.jpg",
+    "Price": 7.5,
+    "City": "Government with Death",
+    "Book Category":"['John Harris  ',]",
+    "grade": "['Grade 10',]",
+    "Ranking": 1,
+    "Rating": 5,
+    "Number of Reviews": 136
+
+  }
+  ]
+

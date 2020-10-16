@@ -1,0 +1,412 @@
+[
+  {
+    "Name": "The Intelligent Investor ",
+    "image": "/images/business/business1.webp",
+    "Price": 6,
+    "City": "The Intelligent Investor ",
+    "Book Category":"['Benjamin Graham',]",
+    "grade": "['Grade 2',]",
+    "Ranking": 1,
+    "Rating": 5,
+    "Number of Reviews": 136
+
+  },
+  {
+    "Name": "Think & Grow Rich",
+    "image": "/images/business/business2.jpg",
+    "Price": 5.5,
+    "City": "Think & Grow Rich",
+    "Book Category": "['Napoleon Hill',]",
+    "grade": "['Grade 5',]",
+    "Ranking": 2,
+    "Rating": 4.5,
+    "Number of Reviews": 812
+  },
+  {
+    "Name": "Business Adventures",
+    "image": "/images/business/business3.jpg",
+    "Price": 10,
+    "City": "Business Adventures",
+    "Book Category": "['John Brooks',]",
+    "grade": "['Grade 7',]",
+    "Ranking": 3,
+    "Rating": 4.5,
+    "Number of Reviews": 567
+  },
+  {
+    "Name": "Screw Business As Usual",
+    "image": "/images/business/business4.jpg",
+    "Price": 3.5,
+    "City": "Screw Business As Usual",
+    "Book Category": "['Richard Branson',]",
+    "grade": "['Grade 10',]",
+    "Ranking": 4,
+    "Rating": 5,
+    "Number of Reviews": 564
+  },
+  {
+    "Name": "INVALUABLE",
+    "image": "/images/business/business5.jpg",
+    "Price": 10,
+    "City": "INVALUABLE",
+    "Book Category": "['Maya Grossman',]",
+    "grade": "['Grade 4',]",
+    "Ranking": 5,
+    "Rating": 4.5,
+    "Number of Reviews": 316
+  },
+  {
+    "Name": "Where have all the leaders gone?",
+    "image": "/images/business/business6.jpg",
+    "Price": 4.2,
+    "City": "Where have all the leaders gone?",
+    "Book Category":"['Lee Iacocca',]",
+    "grade": "['Grade 3',]",
+    "Ranking": 1,
+    "Rating": 5,
+    "Number of Reviews": 136
+
+  },
+  {
+    "Name": "Inspirational Quotes for Business",
+    "image": "/images/business/business7.jpg",
+    "Price": 12,
+    "City": "Inspirational Quotes for Business",
+    "Book Category": "['John Walker',]",
+    "grade": "['Diploma',]",
+    "Ranking": 3,
+    "Rating": 4.5,
+    "Number of Reviews": 567
+  },
+  {
+    "Name": "Entrepreneur",
+    "image": "/images/business/business8.jpeg",
+    "Price": 6,
+    "City": "Entrepreneur",
+    "Book Category": "['Magazine',]",
+    "grade": "['Grade 10',]",
+    "Ranking": 4,
+    "Rating": 5,
+    "Number of Reviews": 564
+  },
+  {
+    "Name": "Profit to People",
+    "image": "/images/business/business9.jpg",
+    "Price": 7,
+    "City": "Profit to People",
+    "Book Category": "['Magazine',]",
+    "grade": "['Grade 3',]",
+    "Ranking": 5,
+    "Rating": 4.5,
+    "Number of Reviews": 316
+  },
+  {
+    "Name": "CEO",
+    "image": "/images/business/business10.jpg",
+    "Price": 7.5,
+    "City": "CEO",
+    "Book Category":"['Magazine',]",
+    "grade": "['Grade 1',]",
+    "Ranking": 1,
+    "Rating": 5,
+    "Number of Reviews": 136
+
+  },
+  {
+    "Name": "Great Indian Business Stories",
+    "image": "/images/business/business11.jpg",
+    "Price": 7,
+    "City": "Great Indian Business Stories",
+    "Book Category": "['unknown',]",
+    "grade": "['Grade 3',]",
+    "Ranking": 5,
+    "Rating": 4.5,
+    "Number of Reviews": 316
+  },
+  {
+    "Name": "World Famous",
+    "image": "/images/business/business12.jpg",
+    "Price": 7.5,
+    "City": "World Famous",
+    "Book Category":"['David Tyreman',]",
+    "grade": "['Grade 1',]",
+    "Ranking": 1,
+    "Rating": 5,
+    "Number of Reviews": 136
+
+  },
+  {
+    "Name": "Harry Potter",
+    "image": "/images/novel/novel1.jpg",
+    "Price": 6,
+    "City": "Harry Potter",
+    "Book Category":"['J k Rowling',]",
+    "grade": "['Grade 01',]",
+    "Ranking": 1,
+    "Rating": 5,
+    "Number of Reviews": 136
+
+  },
+  {
+    "Name": "Harry Potter",
+    "image": "/images/novel/novel2.jpg",
+    "Price": 5.5,
+    "City": "Harry Potter ",
+    "Book Category": "['J k Rowling',]",
+    "grade": "['Grade 02',]",
+    "Ranking": 2,
+    "Rating": 4.5,
+    "Number of Reviews": 812
+  },
+  {
+    "Name": "The Dark Road",
+    "image": "/images/novel/novel3.webp",
+    "Price": 10,
+    "City": "The Dark Road",
+    "Book Category": "['Ma Jian',]",
+    "grade": "['Grade 05',]",
+    "Ranking": 3,
+    "Rating": 4.5,
+    "Number of Reviews": 567
+  },
+  {
+    "Name": "The English Teacher",
+    "image": "/images/novel/novel4.jpg",
+    "Price": 3.5,
+    "City": "The English Teacher",
+    "Book Category": "['Yiftach Recicher Atir',]",
+    "grade": "['Grade 02',]",
+    "Ranking": 4,
+    "Rating": 5,
+    "Number of Reviews": 564
+  },
+  {
+    "Name": "Game of Thrones",
+    "image": "/images/novel/novel5.jpg",
+    "Price": 10,
+    "City": "Game of Thrones",
+    "Book Category": "['Geoger R Martin',]",
+    "grade": "['Grade 06',]",
+    "Ranking": 5,
+    "Rating": 4.5,
+    "Number of Reviews": 316
+  },
+  {
+    "Name": "Something wonderful",
+    "image": "/images/novel/novel6.jpg",
+    "Price": 4.2,
+    "City": "Something wonderful",
+    "Book Category":"['Judith Mc Naught',]",
+    "grade": "['Grade 07',]",
+    "Ranking": 1,
+    "Rating": 5,
+    "Number of Reviews": 136
+
+  },
+  {
+    "Name": "To Kill A Mocking Bird",
+    "image": "/images/novel/novel7.jpg",
+    "Price": 12,
+    "City": "To Kill A Mocking Bird",
+    "Book Category": "['Harper Lee',]",
+    "grade": "['Grade 10',]",
+    "Ranking": 3,
+    "Rating": 4.5,
+    "Number of Reviews": 567
+  },
+  {
+    "Name": "A Time To Kill",
+    "image": "/images/novel/novel8.jpg",
+    "Price": 6,
+    "City": "A Time To Kill",
+    "Book Category": "['John Grisham',]",
+    "grade": "['Grade 10',]",
+    "Ranking": 4,
+    "Rating": 5,
+    "Number of Reviews": 564
+  },
+  {
+    "Name": "Dragon Fly",
+    "image": "/images/novel/novel9.jpg",
+    "Price": 7,
+    "City": "Dragon Fly",
+    "Book Category": "['Leila Meacham',]",
+    "grade": "['Grade 08',]",
+    "Ranking": 5,
+    "Rating": 4.5,
+    "Number of Reviews": 316
+  },
+  {
+    "Name": "The Point Of Light",
+    "image": "/images/novel/novel10.jpg",
+    "Price": 7.5,
+    "City": "The Point Of Light",
+    "Book Category":"['Jhon Ellsworth',]",
+    "grade": "['Grade 03',]",
+    "Ranking": 1,
+    "Rating": 5,
+    "Number of Reviews": 136
+
+  },
+  {
+    "Name": "Shadows on the Sea",
+    "image": "/images/novel/novel11.jpg",
+    "Price": 7.5,
+    "City": "Shadows on the Sea",
+    "Book Category":"['Joan Hiatt Harlow',]",
+    "grade": "['Grade 04',]",
+    "Ranking": 1,
+    "Rating": 5,
+    "Number of Reviews": 136
+
+  },
+  {
+    "Name": "Government with Death",
+    "image": "/images/novel/novel12.jpg",
+    "Price": 7.5,
+    "City": "Government with Death",
+    "Book Category":"['John Harris  ',]",
+    "grade": "['Grade 10',]",
+    "Ranking": 1,
+    "Rating": 5,
+    "Number of Reviews": 136
+
+  },{
+  "Name": "me before you",
+  "image": "/images/romance/romantic1.jpg",
+  "Price": 6,
+  "City": "me before you",
+  "Book Category":"['Jojo Moyes',]",
+  "grade": "['Grade 01',]",
+  "Ranking": 1,
+  "Rating": 5,
+  "Number of Reviews": 136
+
+},
+  {
+    "Name": "Finding love in Paris",
+    "image": "/images/romance/romantic2.jpg",
+    "Price": 5.5,
+    "City": "Finding love in Paris",
+    "Book Category": "['J I Dufont',]",
+    "grade": "['Grade 02',]",
+    "Ranking": 2,
+    "Rating": 4.5,
+    "Number of Reviews": 812
+  },
+  {
+    "Name": "A walk to remember",
+    "image": "/images/romance/romantic3.webp",
+    "Price": 10,
+    "City": "A walk to remember",
+    "Book Category": "['Nicholas Spark',]",
+    "grade": "['Grade 05',]",
+    "Ranking": 3,
+    "Rating": 4.5,
+    "Number of Reviews": 567
+  },
+  {
+    "Name": "The war between us",
+    "image": "/images/romance/romantic4.jpg",
+    "Price": 3.5,
+    "City": "The war between us",
+    "Book Category": "['Sarah Creviston Lee',]",
+    "grade": "['Grade 02',]",
+    "Ranking": 4,
+    "Rating": 5,
+    "Number of Reviews": 564
+  },
+  {
+    "Name": "Other side of the sky",
+    "image": "/images/romance/romantic5.jpg",
+    "Price": 10,
+    "City": "Other side of the sky",
+    "Book Category": "['Amie Kaufman',]",
+    "grade": "['Grade 06',]",
+    "Ranking": 5,
+    "Rating": 4.5,
+    "Number of Reviews": 316
+  },
+  {
+    "Name": "The thorn birds",
+    "image": "/images/romance/romantic6.jpg",
+    "Price": 4.2,
+    "City": "The thorn birds",
+    "Book Category":"['Colleen Mcullouch',]",
+    "grade": "['Grade 07',]",
+    "Ranking": 1,
+    "Rating": 5,
+    "Number of Reviews": 136
+
+  },
+  {
+    "Name": "Outlander",
+    "image": "/images/romance/romantic7.jpg",
+    "Price": 12,
+    "City": "Outlander",
+    "Book Category": "['Diana Gabaldon',]",
+    "grade": "['Grade 10',]",
+    "Ranking": 3,
+    "Rating": 4.5,
+    "Number of Reviews": 567
+  },
+  {
+    "Name": "Snow with Huntsman",
+    "image": "/images/romance/romantic8.jpg",
+    "Price": 6,
+    "City": "Snow with Huntsman",
+    "Book Category": "['Colleen Mcullouch',]",
+    "grade": "['Grade 10',]",
+    "Ranking": 4,
+    "Rating": 5,
+    "Number of Reviews": 564
+  },
+  {
+    "Name": "Love story",
+    "image": "/images/romance/romantic9.jpg",
+    "Price": 7,
+    "City": "Love story",
+    "Book Category": "['Karen Kingsbury',]",
+    "grade": "['Grade 08',]",
+    "Ranking": 5,
+    "Rating": 4.5,
+    "Number of Reviews": 316
+  },
+  {
+    "Name": "The mistake",
+    "image": "/images/romance/romantic10.jpg",
+    "Price": 7.5,
+    "City": "The mistake",
+    "Book Category":"['Bishwanath Singh',]",
+    "grade": "['Grade 03',]",
+    "Ranking": 1,
+    "Rating": 5,
+    "Number of Reviews": 136
+
+  },
+  {
+    "Name": "The Royal Companion",
+    "image": "/images/romance/romantic11.jpg",
+    "Price": 7.5,
+    "City": "The Royal Companion",
+    "Book Category":"['Tanya Bird',]",
+    "grade": "['Grade 04',]",
+    "Ranking": 1,
+    "Rating": 5,
+    "Number of Reviews": 136
+
+  },
+  {
+    "Name": "Poetry",
+    "image": "/images/romance/romantic12.jpg",
+    "Price": 7.5,
+    "City": "Poetry",
+    "Book Category":"['William Shakespear',]",
+    "grade": "['William Shakespear  ',]",
+    "Ranking": 1,
+    "Rating": 5,
+    "Number of Reviews": 136
+
+  }
+]
+

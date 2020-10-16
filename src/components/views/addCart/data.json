@@ -1,0 +1,53 @@
+{
+  "products": [
+    {
+      "_id": "dress1",
+      "image": "/images/bio4.jpg",
+      "title": "A.R.Rahman biography",
+      "description": "Allahrakha Rahman, known professionally as A. R. Rahman, is an Indian composer, singer and music producer who works predominantly in Tamil and Hindi movies. In 2010, the Indian government awarded him the Padma Bhushan, the nation's third-highest civilian award.",
+      "availableSizes": ["X", "L", "XL", "XXL"],
+      "price": 29.9
+    },
+    {
+      "_id": "dress2",
+      "image": "/images/business3.jpg",
+      "title": "Business Adventure",
+      "description": "Business Adventures remains the best business book I’ve ever read.” —Bill Gates, The Wall Street Journal What do the $350 million Ford Motor Company disaster known as the Edsel, the fast and incredible rise of Xerox, and the unbelievable scandals at General Electric and Texas Gulf Sulphur have in common? ...",
+      "availableSizes": ["X", "M", "L"],
+      "price": 18.9
+    },
+    {
+      "_id": "dress3",
+      "image": "/images/bio10.webp",
+      "title": "Adolf Hitler biography",
+      "description": "Adolf Hitler was a German politician and leader of the Nazi Party. He rose to power as the chancellor of Germany in 1933 and then as Führer in 1934. During his dictatorship from 1933 to 1945, he initiated World War II in Europe by invading Poland on 1 September 1939",
+      "availableSizes": ["X", "M", "L"],
+      "price": 14.9
+    },
+    {
+      "_id": "dress4",
+      "image": "/images/business4.jpg",
+      "title": "Screw business as usual",
+      "description": "In 1968, a young man named Richard Branson began an improbable journey. From opening a tiny record store, called Virgin Records, on the second floor of a building in London, Richard went on to become the head of one of the world’s most universally recognized and respected groups of companies. ..",
+      "availableSizes": ["XL"],
+      "price": 25.9
+    },
+    {
+      "_id": "dress5",
+      "image": "/images/business12.jpg",
+        "title": "World famous",
+      "description": "For starters, he encourages his audiences to use their Smart Phones to text colleagues about what they’re hearing.  David delights audiences with humor, wit and charm as he demonstrates the unthinkable — that you’re NOT in the business YOU THOUGHT you were!  ",
+      "availableSizes": ["X", "L", "XL"],
+      "price": 10.9
+    },
+    {
+      "_id": "dress6",
+      "image": "/images/History7.jpg",
+      "title": "World History",
+      "description": "World history or global history as a field of historical study examines history from a global perspective. It emerged centuries ago; leading practitioners have included Voltaire, Hegel, Karl Marx and Arnold J. Toynbee. The field became much more active in the late 20th century.",
+      "availableSizes": ["XL", "XXL"],
+      "price": 49.9
+    }
+
+  ]
+}

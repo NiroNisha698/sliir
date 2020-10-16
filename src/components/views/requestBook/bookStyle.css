@@ -1,0 +1,116 @@
+.box_shw2 {
+    box-shadow: rgba(95, 101, 206, 0.84) 0 0 25px;
+}
+
+.f_12_14 {
+    font-size: 12px;
+    line-height: 14px !important;
+}
+
+.f_20_22 {
+    font-size: 20px;
+    line-height: 22px !important;
+}
+
+.bg_grey {
+    background-color: #f5f4f4 !important;
+}
+
+.w_500 {
+    width: 500px;
+    max-width: 100%;
+}
+.thankyou_details{
+    box-shadow: rgba(0, 0, 0, 0.12) 0 0 250px;
+    background-color: #f1f1f1 !important;
+
+    border-radius: 20%;
+}
+.h2{
+    text-align: center;
+    text-blink: 2.0;
+    text-after-overflow: 2;
+}
+
+
+.d-block{
+    height: 400px;
+    width: 400px;
+}
+
+.giphy-embed{
+    alignment: center;
+    margin-left: 420px;
+}
+
+
+.card1{
+    position: relative;
+    background: #c71919;
+    width: 400px;
+    height: 400px;
+    margin: auto;
+
+
+}
+
+.card1 .content{
+    width: 400px;
+    padding: 30px;
+    box-sizing: border-box;
+
+}
+.card1 .content a{
+    display: inline-block;
+    margin: 10px 0 0;
+    padding: 10px 20px;
+    text-decoration: none;
+    border: 2px solid #262626;
+    color: #262626;
+    font-weight: 600;
+
+
+
+
+}
+.card1 .sliderText{
+    position: relative;
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #000;
+}
+.card1 .sliderText h3{
+    color: #fff ;
+    font-size: 3em;
+
+}
+.swiper-slide{
+    width: 400px;
+
+}
+
+.swiper-slide:nth-child(1).sliderText{
+    background: #2196f3;
+}
+
+.swiper-slide:nth-child(2).card1.sliderText{
+    background: #e91e63;
+
+}
+.swiper-slide:nth-child(3).sliderText{
+    background: #c3d41a;
+
+}
+.swiper-slide:nth-child(4).sliderText{
+    background: #ff9800;
+
+}
+.swiper-slide:nth-child(5).sliderText{
+    background: #2196f3;
+
+}
+
+

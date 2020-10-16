@@ -1,0 +1,75 @@
+
+
+/*.@import url('https://fonts.googleapis.com/css?family=Archivo+Black'){*/
+
+/*//Utilizing SASS variable functionality to apply color scheme*/
+/*$lightgray: #F7F9F9;*/
+/*$bluegray: #BED8D4;*/
+/*}*/
+
+
+
+
+h1{
+font-size: 4em;
+            font-weight: bold;
+    color: darkslategray;
+  font-family: 'Archivo Black';
+}
+
+.form{
+height: 35%;
+border: 5px solid #4261c7;
+border-radius: 20%;
+margin-top: 1em;
+text-align: center;
+justify-content: center;
+flex-direction: column;
+background-color: #e7f1f1;
+display: flex;
+padding: 45px;
+}
+
+
+
+ .inputcontainer{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+}
+
+
+.nSlide{
+    height: 55%;
+    width: 100%;
+    border-radius: 20%;
+    margin-top: 1em;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #e7f1f1;
+    display: flex;
+    padding: 45px;
+
+}
+
+  input {
+ display: flex ;
+  justify-content: center;
+ align-items: center;
+  margin: 5px;
+  }
+
+ button{
+  justify-content: center;
+   align-items: center;
+   margin: 2em;
+}
+
+.Map{
+    lat:40.854885;
+    lng: -88.0818;
+}
+
+

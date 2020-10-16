@@ -1,0 +1,16 @@
+.main-footer {
+    color: white;
+    background-color: #011C29;
+    padding-top: 1em;
+    position: sticky;
+    left: 0;
+    bottom: 0;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    min-height: 10vh;
+    flex-direction: column;
+    flex: 1 0 auto;
+  }
+
+ 

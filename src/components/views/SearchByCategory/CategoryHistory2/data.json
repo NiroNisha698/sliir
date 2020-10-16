@@ -1,0 +1,140 @@
+[
+  {
+    "Name": "Jojo Moyes",
+    "image": "/images/his/history1.jpg",
+    "Price": 6,
+    "City": "me before you",
+    "Book Category":"['Jojo Moyes',]",
+    "grade": "['Grade 01',]",
+    "Ranking": 1,
+    "Rating": 5,
+    "Number of Reviews": 136
+
+  },
+  {
+    "Name": "J I Dufont",
+    "image": "/images/his/history2.jpg",
+    "Price": 5.5,
+    "City": "Finding love in Paris",
+    "Book Category": "['J I Dufont',]",
+    "grade": "['Grade 02',]",
+    "Ranking": 2,
+    "Rating": 4.5,
+    "Number of Reviews": 812
+  },
+  {
+    "Name": "Nicholas Sparks",
+    "image": "/images/his/history3.jpg",
+    "Price": 10,
+    "City": "A walk to remember",
+    "Book Category": "['Nicholas Spark',]",
+    "grade": "['Grade 05',]",
+    "Ranking": 3,
+    "Rating": 4.5,
+    "Number of Reviews": 567
+  },
+  {
+    "Name": "Sarah Creviston Lee",
+    "image": "/images/his/History4.jpg",
+    "Price": 3.5,
+    "City": "The war between us",
+    "Book Category": "['Sarah Creviston Lee',]",
+    "grade": "['Grade 02',]",
+    "Ranking": 4,
+    "Rating": 5,
+    "Number of Reviews": 564
+  },
+  {
+    "Name": "Amie Kaufman",
+    "image": "/images/his/history5.jpg",
+    "Price": 10,
+    "City": "Other side of the sky",
+    "Book Category": "['Amie Kaufman',]",
+    "grade": "['Grade 06',]",
+    "Ranking": 5,
+    "Rating": 4.5,
+    "Number of Reviews": 316
+  },
+    {
+      "Name": "Colleen Mcullouch",
+      "image": "/images/his/history6.jpg",
+      "Price": 4.2,
+      "City": "The thorn birds",
+      "Book Category":"['Colleen Mcullouch',]",
+      "grade": "['Grade 07',]",
+      "Ranking": 1,
+      "Rating": 5,
+      "Number of Reviews": 136
+
+    },
+  {
+    "Name": "Diana Gabaldon",
+    "image": "/images/his/History7.jpg",
+    "Price": 12,
+    "City": "Outlander",
+    "Book Category": "['Diana Gabaldon',]",
+    "grade": "['Grade 10',]",
+    "Ranking": 3,
+    "Rating": 4.5,
+    "Number of Reviews": 567
+  },
+  {
+    "Name": "Colleen Mcullouch",
+    "image": "/images/his/History8.jpg",
+    "Price": 6,
+    "City": "Snow with Huntsman",
+    "Book Category": "['Colleen Mcullouch',]",
+    "grade": "['Grade 10',]",
+    "Ranking": 4,
+    "Rating": 5,
+    "Number of Reviews": 564
+  },
+  {
+    "Name": "Karen Kingsbury",
+    "image": "/images/his/History9.jpg",
+    "Price": 7,
+    "City": "Love story",
+    "Book Category": "['Karen Kingsbury',]",
+    "grade": "['Grade 08',]",
+    "Ranking": 5,
+    "Rating": 4.5,
+    "Number of Reviews": 316
+  },
+  {
+    "Name": "Bishwanath Singh",
+    "image": "/images/his/History10.jpg",
+    "Price": 7.5,
+    "City": "The mistake",
+    "Book Category":"['Bishwanath Singh',]",
+    "grade": "['Grade 03',]",
+    "Ranking": 1,
+    "Rating": 5,
+    "Number of Reviews": 136
+
+  },
+  {
+    "Name": "Tanya Bird",
+    "image": "/images/his/History11.jpg",
+    "Price": 7.5,
+    "City": "The Royal Companion",
+    "Book Category":"['Tanya Bird',]",
+    "grade": "['Grade 04',]",
+    "Ranking": 1,
+    "Rating": 5,
+    "Number of Reviews": 136
+
+  },
+  {
+    "Name": "William Shakespear",
+    "image": "/images/his/history12.jpg",
+    "Price": 7.5,
+    "City": "Poetry",
+    "Book Category":"['William Shakespear',]",
+    "grade": "['William Shakespear  ',]",
+    "Ranking": 1,
+    "Rating": 5,
+    "Number of Reviews": 136
+
+  }
+  ]
+
