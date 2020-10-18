@@ -18,7 +18,7 @@ class Footer extends Component {
                       <a href="#">Feedback</a>
                     </li>
                     <li className="list-unstyled">
-                      <a href="/ReqBook">Request Book</a>
+                      <a href="/RequestBookNew">Request Book</a>
                     </li>
                     <li className="list-unstyled">
                       <a href="#">Track Order</a>

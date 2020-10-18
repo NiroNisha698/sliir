@@ -18,12 +18,12 @@ motiva {
     justify-content: center;
 }
 
-.container {
+.containern {
     max-width: 960px;
     text-align: center;
 }
 
-.container h1 {
+.containern h1 {
     position: relative;
     animation-name: header1;
     animation-duration: 2s;
@@ -35,7 +35,7 @@ motiva {
     100% { top: 0; }
 }
 
-.container p {
+.containern p {
     position: relative;
     left: -1500px;
     animation-name: paragraph;
